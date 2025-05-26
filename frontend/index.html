@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NetScan Web</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Verificador de Equipos en Red</h1>
+  <form id="scan-form">
+    <label>IP Base (ej: 192.168.1)</label>
+    <input type="text" id="base-ip" value="192.168.1" required />
+    <button type="submit">Escanear</button>
+  </form>
+
+  <table id="results">
+    <thead>
+      <tr>
+        <th>Dirección IP</th>
+        <th>Estado</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
