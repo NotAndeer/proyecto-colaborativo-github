@@ -72,6 +72,8 @@ Editar
 192.168.1.10 está activo
 
 Colaboradores
+
+
 Freddy Anderson Lombana Cárdenas
 @NotAndeer
 
