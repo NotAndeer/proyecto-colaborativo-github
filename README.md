@@ -75,7 +75,12 @@ Colaboradores
 
 
 Freddy Anderson Lombana Cárdenas
-@NotAndeer
+GitHub: NotAndeer
 
-Miguel Ángel Toloza
-@miguelta321
+Miguel Támara
+GitHub: miguelta321
+
+Freddy Anderson Lombana Cárdenas → https://github.com/NotAndeer
+
+Miguel Támara → https://github.com/miguelta321
+
