@@ -80,7 +80,12 @@ GitHub: NotAndeer
 Miguel Támara
 GitHub: miguelta321
 
+Daniel Felipe Fernández Cabra
+Github: Danitech97
+
 Freddy Anderson Lombana Cárdenas → https://github.com/NotAndeer
 
 Miguel Támara → https://github.com/miguelta321
+
+Daniel Fernández → https://github.com/Danitech97
 
